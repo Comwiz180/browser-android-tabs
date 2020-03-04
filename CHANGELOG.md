@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.5.8](https://github.com/brave/browser-android-tabs/releases/tag/v1.5.8)
+
+ - Fixed tokens not being successfully unblinded in certain cases leading to reduced balances. ([#2582](https://github.com/brave/browser-android-tabs/issues/2582))
+ - Fixed crash when calculating the winning page classification category in certain cases. ([#2583](https://github.com/brave/browser-android-tabs/issues/2583))
+
 ## [1.5.7](https://github.com/brave/browser-android-tabs/releases/tag/v1.5.7)
 
  - Upgraded to Chromium 80.0.3987.119. ([#2565](https://github.com/brave/browser-android-tabs/issues/2565))
