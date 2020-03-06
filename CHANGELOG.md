@@ -2,7 +2,7 @@
 
 ## [1.5.9](https://github.com/brave/browser-android-tabs/releases/tag/v1.5.9)
 
- - Replaced the "Chrome" text with "Brave" in the message for offline pages. ([#2595](https://github.com/brave/browser-android-tabs/issues/2595))
+ - Replaced "Chrome" with "Brave" in the message for offline pages. ([#2595](https://github.com/brave/browser-android-tabs/issues/2595))
  - Upgraded to Chromium 80.0.3987.132. ([#2594](https://github.com/brave/browser-android-tabs/issues/2594))
 
 ## [1.5.8](https://github.com/brave/browser-android-tabs/releases/tag/v1.5.8)
